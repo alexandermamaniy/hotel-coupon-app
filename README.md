@@ -23,7 +23,7 @@ The project leverages **serverless** and **event-driven architectures** on AWS, 
 ### 👤 Users
 - Search coupons by title, discount, or hotel name.  
 - Redeem coupons and automatically subscribe to future offers from the same hotelier.  
-- View redeemed coupons, use them via unique codes, and receive real-time notifications.  
+- View redeemed coupons, use them via unique QRcodes, and receive real-time notifications.  
 
 ### 🏨 Hoteliers
 - Create, edit, and track coupon usage.  
